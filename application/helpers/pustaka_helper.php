@@ -1,5 +1,5 @@
 <?php
-94
+
 function cek_login()
 {
  $ci = get_instance();
